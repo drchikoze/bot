@@ -1,0 +1,11 @@
+{
+    "itsquiz": {
+        "staticUrl": "https://app.itsquiz.com",
+        "apiPrefix": "https://app.itsquiz.com/api/v1",
+        "accessKey": "h0b89c7tw7t6KEImbbXO",
+        "defaultPassword": "kxjlZ19k3i6r3CmJyr6R"
+    },
+    "telegram": {
+        "token": "244772909:AAGI_hroDY28XS7eF37QhMIiPyo3Xjr_W6o"
+    }
+}

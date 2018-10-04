@@ -1,0 +1,8 @@
+{
+    "extends": "webbylab",
+    "rules": {
+      "more/classbody-starts-with-newline": 0,
+      "max-len": 0,
+      "newline-after-var": 0
+    }
+}
